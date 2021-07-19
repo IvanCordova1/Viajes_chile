@@ -13,10 +13,8 @@ body{
     padding-bottom: 2%;
 }
 
-.hr{
-    color: blue;
-    margin-top: 3%;
-}
+
+
 .font_awesome{
     text-align: center;
   color: aliceblue;
@@ -27,4 +25,34 @@ background-color: rgb(48, 211, 233);
 .div_carta{
     padding: 1%;
    
+}
+
+.pdescripcion{
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(255, 255, 255, 0.753);
+}
+
+.titulos{
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(255, 255, 255, 0.753);  
+    
+}
+.card-body{
+    background-color:rgb(48, 211, 233) ;
+}
+
+.cardtitulo{
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(255, 255, 255, 0.753) !important;   
+}
+hr{
+    background-color:rgb(48, 211, 233) ;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+}
+.quienes{
+  margin-left: 5%;
+  margin-right:5%;
 }
