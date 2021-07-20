@@ -1,11 +1,12 @@
+
+
+
 body{
     background-color: rgb(0, 0, 0) !important; 
 }
 
 
-.mi_carrusel{
-    margin-top: -80px;
-}
+
 
 .divtitulo{
     text-align: center;
@@ -34,7 +35,7 @@ background-color: rgb(48, 211, 233);
 
 .titulos{
     font-family: 'Open Sans', sans-serif;
-    color: rgba(255, 255, 255, 0.753);  
+    color: white 
     
 }
 .card-body{
@@ -43,7 +44,7 @@ background-color: rgb(48, 211, 233);
 
 .cardtitulo{
     font-family: 'Open Sans', sans-serif;
-    color: rgba(255, 255, 255, 0.753) !important;   
+    color: white!important;   
 }
 hr{
     background-color:rgb(48, 211, 233) ;
@@ -55,4 +56,51 @@ hr{
 .quienes{
   margin-left: 5%;
   margin-right:5%;
+}
+
+footer{
+    background-color:rgb(48, 211, 233) ; 
+    height: 80px;
+    
+}
+
+.card-img-top{
+    height: 100% !important;
+}
+
+.colfooter1{
+    text-align: center;
+    color:white  ;
+     height: 100%; 
+     padding-top: 2%;
+  
+     
+    
+}
+
+.footertexto{
+    font-family: 'Open Sans', sans-serif;
+    color: white;  
+    
+}
+.colfooter2{
+    text-align: center;
+    font-size: 20px;
+    height: 100%; 
+    padding-top: 2%;
+  
+      
+}
+
+.iconocol{
+    color: white;
+   font-size: 35px;
+   margin-left: 1%;
+   margin-right: 2%;
+}
+
+.formulario{
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 2%;
 }
